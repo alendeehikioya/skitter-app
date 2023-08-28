@@ -1,0 +1,15 @@
+.header-container{
+    width: 100%;
+    height: 120px;
+}
+
+.header-wrapper{
+    width: 100%;
+    background: aquamarine;
+}
+
+a{
+    padding-left:10px;
+    text-decoration: none;
+    
+}
